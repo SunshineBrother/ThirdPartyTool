@@ -16,6 +16,9 @@
 - 2、[一个国外视频学习网站](https://academy.realm.io/cn/section/apple/)
 
 
+## swift混淆
+* [swiftshield](https://github.com/rockbruno/swiftshield)
+
 ## runtime
 
 * [深入理解Objective-C：方法缓存](https://tech.meituan.com/DiveIntoMethodCache.html)
